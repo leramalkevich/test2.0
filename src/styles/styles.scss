@@ -23,6 +23,7 @@ body {
     background: #EBF0FA;
     display: flex;
     justify-content: space-between;
+    gap: 70px;
     padding-left: 70px;
 
     .main-text {
@@ -110,6 +111,7 @@ body {
     margin-right: auto;
     margin-left: auto;
     margin-top: 102px;
+    box-sizing: border-box;
 
     .close-block {
       display: flex;
